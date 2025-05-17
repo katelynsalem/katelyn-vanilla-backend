@@ -1,5 +1,6 @@
 
-{
+[
+  {
     "id": 1,
     "publish": true,
     "date": "2025-05-01",
@@ -20,3 +21,4 @@
         "Empathy is key in identifying real-world problems to solve."
     ]
   }
+]
