@@ -36,7 +36,62 @@
       "en": "<p>I wanted my first blog post to be more thoughtful. But mostly I just want to get the blog online. So here it is, thoughtless and without meaning and will be promptly deleted when I have something better to replace it with. (Hopefully quickly.)</p>",
       "ko": "<p>처음 글은 좀 더 의미 있고 진지하게 쓰고 싶었는데, 솔직히 지금은 그냥 블로그를 일단 올리는 게 목표예요. 그래서 올립니다. 별 생각 없이, 별 의미도 없이. 조만간 더 나은 걸로 바꾸면 바로 지울 예정이에요. (부디 빨리.)</p>"
     },
-    "imageUrl": "/katelyn-vanilla/public/images/firstPostDummy.JPG",
-    "footnotes": null
+    "imageUrl": "../public/images/firstPostDummy.JPG",
+    "footnotes": []
+  },
+  {
+    "id": "3",
+    "publish": true,
+    "date": "2025-05-17",
+    "category": "Thoughts",
+    "tags": ["travel", "thoughts"],
+    "thumbnail": "",
+    "title": {
+      "en": "A Trial, A Test",
+      "ko": "시련과 시험"
+    },
+    "content": {
+      "en": "<p>I wanted my first blog post to be more thoughtful. But mostly I just want to get the blog online. So here it is, thoughtless and without meaning and will be promptly deleted when I have something better to replace it with. (Hopefully quickly.)</p>",
+      "ko": "<p>처음 글은 좀 더 의미 있고 진지하게 쓰고 싶었는데, 솔직히 지금은 그냥 블로그를 일단 올리는 게 목표예요. 그래서 올립니다. 별 생각 없이, 별 의미도 없이. 조만간 더 나은 걸로 바꾸면 바로 지울 예정이에요. (부디 빨리.)</p>"
+    },
+    "imageUrl": "../public/images/firstPostDummy.JPG",
+    "footnotes": []
+  },
+  {
+    "id": "4",
+    "publish": true,
+    "date": "2025-05-17",
+    "category": "Thoughts",
+    "tags": ["travel", "thoughts"],
+    "thumbnail": "",
+    "title": {
+      "en": "A Trial, A Test",
+      "ko": "시련과 시험"
+    },
+    "content": {
+      "en": "<p>I wanted my first blog post to be more thoughtful. But mostly I just want to get the blog online. So here it is, thoughtless and without meaning and will be promptly deleted when I have something better to replace it with. (Hopefully quickly.)</p>",
+      "ko": "<p>처음 글은 좀 더 의미 있고 진지하게 쓰고 싶었는데, 솔직히 지금은 그냥 블로그를 일단 올리는 게 목표예요. 그래서 올립니다. 별 생각 없이, 별 의미도 없이. 조만간 더 나은 걸로 바꾸면 바로 지울 예정이에요. (부디 빨리.)</p>"
+    },
+    "imageUrl": "../public/images/firstPostDummy.JPG",
+    "footnotes": []
+  },
+  {
+    "id": "5",
+    "publish": true,
+    "date": "2025-05-17",
+    "category": "Thoughts",
+    "tags": ["travel", "thoughts"],
+    "thumbnail": "",
+    "title": {
+      "en": "A Trial, A Test",
+      "ko": "시련과 시험"
+    },
+    "content": {
+      "en": "<p>I wanted my first blog post to be more thoughtful. But mostly I just want to get the blog online. So here it is, thoughtless and without meaning and will be promptly deleted when I have something better to replace it with. (Hopefully quickly.)</p>",
+      "ko": "<p>처음 글은 좀 더 의미 있고 진지하게 쓰고 싶었는데, 솔직히 지금은 그냥 블로그를 일단 올리는 게 목표예요. 그래서 올립니다. 별 생각 없이, 별 의미도 없이. 조만간 더 나은 걸로 바꾸면 바로 지울 예정이에요. (부디 빨리.)</p>"
+    },
+    "imageUrl": "../public/images/firstPostDummy.JPG",
+    "footnotes": []
   }
+
 ]
