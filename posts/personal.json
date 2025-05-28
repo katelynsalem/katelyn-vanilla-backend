@@ -5,7 +5,7 @@
     "publish": true,
     "date": "2025-05-01",
     "category": "Thoughts",
-    "tags": ["travel", "thoughts"],
+    "tags": ["한국어", "travel", "thoughts"],
     "title": {
       "en": "The Art of Minimalism: A Philosophy",
       "ko": "미니멀리즘의 예술: 철학"
@@ -45,13 +45,13 @@
     "tags": ["travel", "thoughts"],
     "title": {
       "en": "A Trial, A Test",
-      "ko": "시련과 시험"
+      "ko": ""
     },
     "content": {
       "en": "<p>I wanted my first blog post to be more thoughtful. But mostly I just want to get the blog online. So here it is, thoughtless and without meaning and will be promptly deleted when I have something better to replace it with. (Hopefully quickly.)</p>",
-      "ko": "<p>처음 글은 좀 더 의미 있고 진지하게 쓰고 싶었는데, 솔직히 지금은 그냥 블로그를 일단 올리는 게 목표예요. 그래서 올립니다. 별 생각 없이, 별 의미도 없이. 조만간 더 나은 걸로 바꾸면 바로 지울 예정이에요. (부디 빨리.)</p>"
+      "ko": ""
     },
-    "imageUrl": "../public/images/firstPostDummy.JPG",
+    "imageUrl": "../public/images/catPlaceholder.png",
     "footnotes": []
   },
   {
