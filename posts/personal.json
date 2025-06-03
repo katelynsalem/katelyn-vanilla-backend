@@ -22,18 +22,18 @@
   {
     "id": "2",
     "publish": true,
-    "date": "2025-05-17",
+    "date": "2025-06-03",
     "category": "Thoughts",
-    "tags": ["travel", "thoughts"],
+    "tags": ["한국어", "mental health", "thoughts"],
     "title": {
-      "en": "A Trial, A Test",
-      "ko": "시련과 시험"
+      "en": "May – Mental Health Month",
+      "ko": "5월은 정신 건강의 달"
     },
     "content": {
-      "en": "<p>I wanted my first blog post to be more thoughtful. But mostly I just want to get the blog online. So here it is, thoughtless and without meaning and will be promptly deleted when I have something better to replace it with. (Hopefully quickly.)</p>",
-      "ko": "<p>처음 글은 좀 더 의미 있고 진지하게 쓰고 싶었는데, 솔직히 지금은 그냥 블로그를 일단 올리는 게 목표예요. 그래서 올립니다. 별 생각 없이, 별 의미도 없이. 조만간 더 나은 걸로 바꾸면 바로 지울 예정이에요. (부디 빨리.)</p>"
+      "en": "<p>I had intended to finish creating the website for my blog during the month of May and, since May is Mental Health Month, write a few blog posts about mental health. Especially because mental health is still a fairly taboo topic in South Korea, I thought that a few posts in Korean—even if poorly written and on an unpopular blog—might still be worthwhile for someone.</p><p>While I didn’t finish the blog in May, no that it is finished I plan to post a few things about mental health. Specifically, I want to talk about my own struggles, what I’ve learned through research, and how I’ve worked to cope with those challenges. My first mental health post will come after this one. For all future posts on the topic, I’ll make sure to add the “mental health” tag.</p><p>(As of writing this post, I haven’t completed the tag feature yet—QQ)</p>",
+      "ko": "<p>5월 안에 블로그 웹사이트를 완성하고, 마침 5월이 _정신 건강의 달_이기도 해서 정신 건강에 대한 글을 몇 개 쓰고 싶었다. 특히 정신 건강은 아직 한국에서 꽤 터부시되는 주제라서, 설령 글이 조금 서툴고 블로그가 잘 알려지지 않았더라도, 한국어로 쓴 글 몇 개가 누군가에게는 의미가 있을 수도 있겠다고 생각했다.</p><p>비록 5월 안에 블로그를 완성하지는 못했지만, 이제는 마무리가 되었으니 정신 건강에 대한 글을 몇 개 올릴 계획이다. 구체적으로는 내가 겪은 어려움들, 그것에 대해 조사하면서 배운 점들, 그리고 어떻게 대처하려고 노력해왔는지에 대해 이야기해보려 한다. 정신 건강에 관한 첫 번째 글은 이 글 다음에 올라올 예정이다. 이후 이 주제로 쓰는 모든 글에는 “mental health” 태그를 달아둘 예정이다.</p><p>(이 글을 쓰는 시점에서는 아직 태그 기능을 완성하지 못했어요—ㅠㅠ)</p>"
     },
-    "imageUrl": "../public/images/firstPostDummy.JPG",
+    "imageUrl": "",
     "footnotes": []
   },
   {
@@ -41,21 +41,21 @@
     "publish": true,
     "date": "2025-05-17",
     "category": "Thoughts",
-    "tags": ["travel", "thoughts"],
+    "tags": ["한국어", "mental health", "thoughts"],
     "title": {
-      "en": "A Trial, A Test",
-      "ko": ""
+      "en": "Calm and Occasionally Funny",
+      "ko": "차분한데 가끔 웃겨요"
     },
     "content": {
-      "en": "<p>I wanted my first blog post to be more thoughtful. But mostly I just want to get the blog online. So here it is, thoughtless and without meaning and will be promptly deleted when I have something better to replace it with. (Hopefully quickly.)</p>",
-      "ko": ""
+      "en": "<p>I think I'm a chill person; most would say quiet. Sometimes I think that makes people uncomfortable. Maybe it's an uneasiness about being themselves with me—or maybe my vibe is a bit strange.</p><p>When I was younger (and sometimes even now), being surrounded by people who just seemed more carefree and energetic than me made me feel like I was *indeed* strange. I couldn’t understand where people got their energy from. For me, that kind of energy only comes in spurts—when I’m really really happy, or when I’m really really any kind of emotion. I’ve tried to turn on that “energy” more consistently, but it feels fake and becomes completely exhausting.</p><p>As I’ve gotten older, I’ve just wanted to be the calm, cool person who can be surprisingly fun and witty at moments you might not expect. Over several years, as I started leaning into being myself, I began to occasionally hear from people that they appreciate my 'even temperament' (a kind and poetic direct quote that makes me happy to think about). They said that being around me felt calming, or that they didn’t feel like they had to be “on” all the time. And that they didn’t feel judged for their own vibe or behavior when they were around me. The opposite of what I’d always thought before.</p><p>It’s with those people that I realized I feel that 'energy' more often. I talk and joke around more with them—maybe because they give me the same sense of ease: that I don’t have to be “on” all the time, and my quietness isn’t being judged. In a way, it’s kind of ironic—the people who don’t expect a lot of energy from me are the ones I can actually share the most of it with. When I think about building connections, I realize the best ones I’ve had haven’t been about trying to match someone’s energy, but about appreciating the energy they naturally bring. If we follow that mindset, I think we can connect with anyone—at least in theory.</p>",
+      "ko": "<p>저는 제가 꽤 차분한 사람이라고 생각해요. 대부분은 조용한 편이라고 말하죠. 그런데 가끔은 그런 제 모습이 다른 사람들을 불편하게 만드는 것 같다는 생각이 들어요. 아마 저와 함께 있을 때 자기 자신을 자연스럽게 드러내는 게 어려운 건지, 아니면 제 분위기가 조금 낯설게 느껴지는 건지도 모르겠어요.</p><p>어릴 때 (그리고 지금도 가끔은), 저보다 훨씬 더 자유롭고 활기차 보이는 사람들 사이에 있을 때면 내가 정말 이상한 사람인 것처럼 느껴졌어요. 도대체 그 에너지가 어디서 나오는 건지 이해할 수 없었거든요. 저한테 그런 에너지는 정말 기분이 _진짜_ 좋거나, 아니면 _진짜_ 어떤 감정이 강하게 느껴질 때 잠깐씩 나와요. 그 에너지를 꾸준히 끌어내 보려고 한 적도 있지만, 그건 너무 가식처럼 느껴졌고 완전히 기진맥진해졌어요.</p><p>나이가 들수록, 예상하지 못한 순간에 살짝 재치 있고 재미있는, 그런 차분하고 쿨한 사람이 되고 싶다는 생각을 하게 됐어요. 몇 년 동안 조금씩 제 모습 그대로 살아가 보니까, 어느 순간부터 어떤 분들이 제 “평온한 기질”이 좋다고 말해주기 시작했어요 (지금 생각해도 참 고맙고 시적인 표현이에요). 그분들은 저랑 있으면 마음이 편해졌다고, 굳이 늘 에너지 넘치게 행동할 필요가 없었다고 하셨어요. 자기 분위기나 행동이 평가받는 느낌도 들지 않았다고 하시더라고요. 예전의 제가 가졌던 생각과는 전혀 다른 얘기였어요.</p><p>그런 사람들과 함께 있을 때, 저도 “에너지”를 더 자주 느끼게 되는 것 같아요. 말도 더 많이 하게 되고, 장난도 많이 치게 돼요. 아마 저도 그분들 덕분에 편안함을 느끼기 때문이겠죠. 굳이 활기찬 척하지 않아도 괜찮고, 제가 조용하다고 이상하게 보지 않으니까요. 아이러니하게도, 저에게 많은 에너지를 기대하지 않는 사람들이 오히려 제가 에너지를 가장 많이 나눌 수 있는 사람들이더라고요. 관계에 대해 생각해보면, 제가 가장 좋았다고 느꼈던 관계들은 상대의 에너지를 억지로 따라가려 하기보다는, 그 사람이 가진 에너지를 있는 그대로 존중했을 때였어요. 그런 마음으로 다가간다면, 누구와도 연결될 수 있지 않을까 싶어요—적어도 이론적으로는요.</p>"
     },
-    "imageUrl": "../public/images/catPlaceholder.png",
+    "imageUrl": "",
     "footnotes": []
   },
   {
     "id": "4",
-    "publish": true,
+    "publish": false,
     "date": "2025-05-17",
     "category": "Thoughts",
     "tags": ["travel", "thoughts"],
@@ -72,7 +72,7 @@
   },
   {
     "id": "5",
-    "publish": true,
+    "publish": false,
     "date": "2025-05-17",
     "category": "Thoughts",
     "tags": ["travel", "thoughts"],
