@@ -3,21 +3,20 @@
   {
     "id": "1",
     "publish": true,
-    "date": "2025-05-01",
-    "category": "Thoughts",
-    "tags": ["한국어", "travel", "thoughts"],
+    "date": "2025-06-03",
+    "category": "General",
+    "tags": ["한국어", "web design", "minimalism"],
     "title": {
-      "en": "The Art of Minimalism: A Philosophy",
-      "ko": "미니멀리즘의 예술: 철학"
+      "en": "Minimalist Web Design is Hard",
+      "ko": "미니멀한 웹 디자인은 어렵다"
     },
     "content": {
-      "en": "<p>Unicode has largely supplanted<sup data-fn='1'>1</sup> the previous environment of a myriad of incompatible character sets, each used within different locales<sup data-fn='2'>2</sup> and on different computer architectures. Unicode is used to encode the vast majority of text on the Internet, including most web pages, and relevant Unicode support has become a common consideration in contemporary software development.</p>",
-      "ko": "<p>유니코드는 서로 다른 로케일과 컴퓨터 아키텍처에서 사용되는 수많은 호환되지 않는 문자 집합의 이전 환경을 크게 대체했습니다. 유니코드는 대부분의 웹 페이지를 포함한 인터넷 텍스트의 대부분을 인코딩하는 데 사용되며, 관련 유니코드 지원은 현대 소프트웨어 개발에서 일반적으로 고려되는 사항이 되었습니다.</p>"
+      "en": "<p>The initial design concepts I had for this blog were simple (trying to keep it minimalist, I thought). I wanted to design mobile-first (designing the layout for a mobile device originally and then modifying it for larger devices and computers later), keep it monochrome, play with negative space, and make it typography-centric. This, I thought, was the basis of minimalist web design. But when it got to actually displaying the content I wanted to share, I realized I also had to decide how to only use what was necessary.</p><p>Here are the core ideas I gathered from various blogs<sup data-fn='1'>1</sup> and videos that made the most sense to me:</p><ul><li>Use flat patterns and features</li><li>Arrange text content in blocks</li><li>Use monochromatic color palettes with a bright color and ensure contrast is good</li><li>Use whitespace or negative space between content (Can be difficult with mobile web design because space is limited)</li><li>Create interest with a font</li><li>Limit content, but think about the basic actions a user will still want to do at any point</li></ul><p>And these are the websites/layouts I used the most for inspirational elements:</p><a href='https://www.builtforarchives.com/' target='_blank'>builtforarchives.com</a><br><a href='https://www.pizzatoits.it/?ref=lapaninja' target='_blank'>pizzatoits.it</a><br><a href='https://developments.media/?ref=lapaninja' target='_blank'>developments.media</a><br><a href='https://johannadarrieta.com/' target='_blank'>johannadarrieta.com</a><br><a href='https://www.linkdeco.com/artist/sophia-bratt/' target='_blank'>linkdeco.com / Sophia Bratt</a><br><a href='https://preview.studio.site/templates/14BqN41WrP/portfolio/05' target='_blank'>preview.studio.site / Template Portfolio</a><br><a href='https://www.alt-border.com/projects/starface-skincare' target='_blank'>alt-border.com / Starface Skincare</a><br><a href='https://inette.co/' target='_blank'>inette.co</a><br><a href='https://www.davidebaratta.com/' target='_blank'>davidebaratta.com</a><br>",
+      "ko": "<p>이 블로그의 초기 디자인 콘셉트는 단순했다(미니멀하게 유지하려고 했던 거다, 나름). 모바일 우선으로 디자인하고(처음엔 모바일 기기 레이아웃을 만들고, 이후에 더 큰 화면이나 컴퓨터용으로 수정하는 방식), 흑백 톤을 유지하며, 여백을 활용하고, 타이포그래피 중심으로 구성하고 싶었다. 이게 미니멀한 웹 디자인의 기본이라고 생각했다. 하지만 실제로 내가 공유하고 싶은 콘텐츠를 보여주려 하자, 진짜 어려운 점이 드러났다. 꼭 필요한 것만 써야 한다는 판단까지 함께 해야 했던 것이다.</p><p>다양한 블로그와 영상에서<sup data-fn='1'>1</sup> 얻은 핵심 개념은 다음과 같다:</p><ul><li>플랫한 패턴과 기능을 사용할 것</li><li>텍스트 콘텐츠를 블록 단위로 정리할 것</li><li>흑백 계열 색상에 포인트 컬러 하나만 사용할 것, 충분한 대비가 있도록 할 것</li><li>콘텐츠 사이에 공백 또는 여백을 둘 것 (모바일 웹 디자인에선 공간이 한정돼 있어 어렵기도 하다)</li><li>폰트로 시각적 흥미를 줄 것</li><li>콘텐츠를 최소화하되, 사용자가 언제든 하고 싶을 행동은 고려할 것</li></ul><p>그리고 아래는 내가 참고한 레이아웃/사이트들이다:</p><a href='https://www.builtforarchives.com/' target='_blank'>builtforarchives.com</a><br><a href='https://www.pizzatoits.it/?ref=lapaninja' target='_blank'>pizzatoits.it</a><br><a href='https://developments.media/?ref=lapaninja' target='_blank'>developments.media</a><br><a href='https://johannadarrieta.com/' target='_blank'>johannadarrieta.com</a><br><a href='https://www.linkdeco.com/artist/sophia-bratt/' target='_blank'>linkdeco.com / Sophia Bratt</a><br><a href='https://preview.studio.site/templates/14BqN41WrP/portfolio/05' target='_blank'>preview.studio.site / Template Portfolio</a><br><a href='https://www.alt-border.com/projects/starface-skincare' target='_blank'>alt-border.com / Starface Skincare</a><br><a href='https://inette.co/' target='_blank'>inette.co</a><br><a href='https://www.davidebaratta.com/' target='_blank'>davidebaratta.com</a><br>"
     },
     "imageUrl": "",
     "footnotes": [
-        "A methodology that starts with understanding users’ needs.",
-        "Empathy is key in identifying real-world problems to solve."
+        "https://medium.com/@abenezerdaniel147/the-complete-guide-to-monochromatic-web-designs-1670dd903738, https://www.webnode.com/blog/principles-for-minimalism-in-web-design/, https://sage.agency/blog/web-design-mobile-best-practices/"
     ]
   },
   {
