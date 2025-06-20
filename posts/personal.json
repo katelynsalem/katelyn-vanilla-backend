@@ -2,7 +2,7 @@
 [
   {
     "id": "4",
-    "publish": true,
+    "publish": false,
     "date": "2025-06-20",
     "category": "Thoughts",
     "tags": ["한국어","thoughts"],
